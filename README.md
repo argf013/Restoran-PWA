@@ -1,7 +1,8 @@
 # Restoran-PWA
 Submission Dicoding Katalog Restoran PWA
+
+Website ini menamplikan data dari https://restaurant-api.dicoding.dev/ \
 Deploy website : https://restodist.netlify.app/
-Website ini menamplikan data dari https://restaurant-api.dicoding.dev/
 
 ## Scripts yang bisa dijalankan 
 
