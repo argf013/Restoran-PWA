@@ -100,7 +100,7 @@ body {
 .hero {
   display: flex;
   align-items: center;
-  min-height: 380px;
+  min-height: 600px;
   width: 100%;
   text-align: center;
   background-image: url("../public/images/heros/hero-image_4.jpg");
